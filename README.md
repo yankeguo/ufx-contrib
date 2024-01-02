@@ -1,3 +1,3 @@
 # ufx-contrib
 
-extra modules for uFx
+extra modules for [uFx](https://github.com/yankeguo/ufx)
