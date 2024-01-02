@@ -2,9 +2,10 @@ package redisfx
 
 import (
 	"context"
-	"github.com/guoyk93/ufx"
+
 	"github.com/redis/go-redis/extra/redisotel/v9"
 	"github.com/redis/go-redis/v9"
+	"github.com/yankeguo/ufx"
 )
 
 type ClusterParams struct {

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/guoyk93/ufx"
-	"github.com/guoyk93/ufx-contrib/redisfx"
 	"github.com/redis/go-redis/v9"
+	"github.com/yankeguo/ufx"
+	"github.com/yankeguo/ufx-contrib/redisfx"
 	"go.uber.org/fx"
 )
 

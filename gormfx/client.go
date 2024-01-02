@@ -2,7 +2,8 @@ package gormfx
 
 import (
 	"context"
-	"github.com/guoyk93/ufx"
+
+	"github.com/yankeguo/ufx"
 	"gorm.io/gorm"
 	"gorm.io/plugin/opentelemetry/tracing"
 )

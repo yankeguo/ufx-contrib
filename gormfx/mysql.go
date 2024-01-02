@@ -1,7 +1,7 @@
 package gormfx
 
 import (
-	"github.com/guoyk93/ufx"
+	"github.com/yankeguo/ufx"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
